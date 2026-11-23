@@ -1,0 +1,42 @@
+name: Sync Lodestone events
+
+on:
+  schedule:
+    - cron: "17 * * * *"   # every hour, at :17 to avoid the top-of-hour rush
+  workflow_dispatch:         # lets you run it by hand from the Actions tab
+
+permissions:
+  contents: write            # needed to commit data/events.json
+
+concurrency:
+  group: lodestone-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Fetch feeds and update events.json
+        env:
+          LODESTONE_REGION: eu   # eu Lodestone; times are converted to UTC anyway
+        run: node scripts/sync.mjs
+
+      - name: Commit if anything changed
+        run: |
+          # Ignore changes that are only the timestamps, so the repo isn't spammed every hour
+          if git diff --quiet -I '"(generated|lastSeen)":' -- data/; then
+            echo "No new or changed events."
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          git commit -m "Update Lodestone events"
+          git push

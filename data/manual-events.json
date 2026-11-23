@@ -1,0 +1,14 @@
+{
+  "_note": "Events the feeds don't announce (or announce too late). Times in UTC. Example only: check real dates before relying on them.",
+  "events": [
+    {
+      "id": "manual-example",
+      "title": "Example manual event",
+      "url": "",
+      "category": "Manual",
+      "windows": [
+        { "start": "2026-12-15T15:00:00.000Z", "end": "2027-01-05T14:59:00.000Z", "allDay": false, "approx": false, "text": "example" }
+      ]
+    }
+  ]
+}
