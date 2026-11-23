@@ -1,4 +1,4 @@
-name: Sync Lodestone events
+name: Sync Lodestone events and characters
 
 on:
   schedule:
@@ -27,6 +27,11 @@ jobs:
         env:
           LODESTONE_REGION: na   # NA Lodestone writes dates US-style, which the parser reads; times end up in UTC either way
         run: node scripts/sync.mjs
+
+      - name: Fetch characters listed in characters.txt
+        env:
+          LODESTONE_REGION: na
+        run: node scripts/character.mjs
 
       - name: Commit if anything changed
         run: |

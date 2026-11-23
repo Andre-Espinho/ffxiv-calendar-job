@@ -1,0 +1,2 @@
+# Lodestone character IDs to fetch, one per line (the number in the profile URL).
+34035528
