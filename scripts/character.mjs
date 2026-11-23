@@ -31,7 +31,16 @@ export function parseCharacter(html, id) {
     const lv = text(li.replace(/<img[^>]*>/g, '')).replace(/[^\d-]/g, '');
     if (job) levels.push({ job: decode(job).split(' / ')[0].trim(), level: lv && lv !== '-' ? +lv : 0 });
   }
-  const soul = (html.match(/Soul of the ([A-Z][a-zA-Z ]+?)</) || [])[1] || null;
+  // active job: the main-hand item's category ("Dancer's Arm"), else the soul crystal, else a matching job icon
+  const cat = (html.match(/db-tooltip__item__category[^>]*>([^<]+?)(?:'s|’s) (?:Arm|Primary Tool|Grimoire)/) || [])[1];
+  const soulM = (html.match(/Soul of the ([A-Z][a-zA-Z ]+?)</) || [])[1];
+  const iconSrc = src(inner(html, 'character__class_icon'));
+  let iconJob = null;
+  if (iconSrc) { const m = html.match(new RegExp(`data-tooltip="([^"]+)"[^>]*src="${iconSrc.replace(/[.?*+^$()[\]{}|\\]/g, '\\$&')}"|src="${iconSrc.replace(/[.?*+^$()[\]{}|\\]/g, '\\$&')}"[^>]*data-tooltip="([^"]+)"`));
+    if (m) iconJob = decode(m[1] || m[2]).split(' / ')[0].trim(); }
+  const soul = (cat && decode(cat).trim()) || soulM || iconJob || null;
+  if (process.env.DEBUG_CHAR) console.log('debug', { cat, soulM, iconSrc, iconJob,
+    around: html.slice(Math.max(0, html.indexOf('character__class')), html.indexOf('character__class') + 600) });
   const activeLevel = +(text(inner(html, 'character__class__data') || '').match(/\d+/) || [0])[0] || null;
   const portrait = src(inner(html, 'character__detail__image')) || (html.match(/https:\/\/img2\.finalfantasyxiv\.com\/f\/[^"]+fl0\.jpg[^"]*/) || [])[0] || null;
   const face = src(inner(html, 'frame__chara__face')) || (html.match(/https:\/\/img2\.finalfantasyxiv\.com\/f\/[^"]+fc0\.jpg[^"]*/) || [])[0] || null;

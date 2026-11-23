@@ -31,7 +31,7 @@ jobs:
       - name: Fetch characters listed in characters.txt
         env:
           LODESTONE_REGION: na
-        run: node scripts/character.mjs
+        run: DEBUG_CHAR=1 node scripts/character.mjs
 
       - name: Commit if anything changed
         run: |
