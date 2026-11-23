@@ -35,3 +35,11 @@ GitHub serves that URL with cross-origin access allowed, so no proxy is needed.
 ```
 node scripts/sync.mjs --file topics.xml:topics --file news.xml:news
 ```
+
+## Characters
+
+List Lodestone character IDs in `characters.txt` (the number in the profile URL, one per line). Each hourly run writes `data/characters/<id>.json` with name, title, world, race, grand company, free company, active job and level, all job levels, and the portrait and face image URLs. The wallpaper reads:
+
+```
+https://raw.githubusercontent.com/<owner>/<repo>/main/data/characters/<id>.json
+```
