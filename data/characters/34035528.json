@@ -9,7 +9,7 @@
   "cityState": "Gridania",
   "grandCompany": "Maelstrom / Storm Captain",
   "freeCompany": "Crystal Veil",
-  "activeJob": null,
+  "activeJob": "Black Mage",
   "activeLevel": 100,
   "portrait": "https://img2.finalfantasyxiv.com/f/91cf6a74c68684c9cbbebdba9e99c811_2e97c13fdd593d15d543093f8a37b6f0fl0.jpg?1795457085",
   "face": "https://img2.finalfantasyxiv.com/f/91cf6a74c68684c9cbbebdba9e99c811_2e97c13fdd593d15d543093f8a37b6f0fc0.jpg?1795457085",
@@ -151,5 +151,5 @@
       "level": 100
     }
   ],
-  "fetched": "2026-11-23T18:41:27.631Z"
+  "fetched": "2026-11-23T18:42:11.455Z"
 }
