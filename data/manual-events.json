@@ -1,14 +1,13 @@
 {
-  "_note": "Events the feeds don't announce (or announce too late). Times in UTC. Example only: check real dates before relying on them.",
-  "events": [
-    {
-      "id": "manual-example",
-      "title": "Example manual event",
-      "url": "",
-      "category": "Manual",
-      "windows": [
-        { "start": "2026-12-15T15:00:00.000Z", "end": "2027-01-05T14:59:00.000Z", "allDay": false, "approx": false, "text": "example" }
-      ]
-    }
-  ]
+  "_note": "Events the feeds don't announce (or announce too late), e.g. housing lottery periods. Times in UTC. Copy the shape of _example into events.",
+  "_example": {
+    "id": "manual-housing-lottery-2027-01",
+    "title": "Housing lottery entry period",
+    "url": "",
+    "category": "Manual",
+    "windows": [
+      { "start": "2027-01-01T00:00:00.000Z", "end": "2027-01-05T23:59:00.000Z", "allDay": false, "approx": false, "text": "example" }
+    ]
+  },
+  "events": []
 }
