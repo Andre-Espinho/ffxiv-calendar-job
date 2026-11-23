@@ -25,7 +25,7 @@ jobs:
 
       - name: Fetch feeds and update events.json
         env:
-          LODESTONE_REGION: eu   # eu Lodestone; times are converted to UTC anyway
+          LODESTONE_REGION: na   # NA Lodestone writes dates US-style, which the parser reads; times end up in UTC either way
         run: node scripts/sync.mjs
 
       - name: Commit if anything changed
