@@ -1,0 +1,894 @@
+{
+  "generated": "2026-11-23T18:06:04.981Z",
+  "region": "eu",
+  "events": [
+    {
+      "id": "b3766cd45c01482654f79c464ed3129d36c71ba2",
+      "title": "Fan Festival 2026 Official Merchandise Round 3 – Pre-orders Available in Asia & Oceania!",
+      "url": "https://eu.finalfantasyxiv.com/lodestone/topics/detail/b3766cd45c01482654f79c464ed3129d36c71ba2",
+      "feed": "topics",
+      "category": "Topics",
+      "published": "2026-11-20T08:00:00Z",
+      "windows": [
+        {
+          "start": "2026-11-01T00:00:00.000Z",
+          "end": "2026-11-30T23:59:00.000Z",
+          "allDay": true,
+          "approx": true,
+          "text": "November 2026"
+        }
+      ],
+      "firstSeen": "2026-11-23T18:06:04.981Z",
+      "lastSeen": "2026-11-23T18:06:04.981Z"
+    },
+    {
+      "id": "0cf56808fffa2f200a45690d36efe622406a1af1",
+      "title": "New Optional Items Available!",
+      "url": "https://eu.finalfantasyxiv.com/lodestone/topics/detail/0cf56808fffa2f200a45690d36efe622406a1af1",
+      "feed": "topics",
+      "category": "Topics",
+      "published": "2026-11-16T07:01:00Z",
+      "windows": [
+        {
+          "start": "2026-11-01T00:00:00.000Z",
+          "end": "2026-11-30T23:59:00.000Z",
+          "allDay": true,
+          "approx": true,
+          "text": "November 2026"
+        }
+      ],
+      "firstSeen": "2026-11-23T18:06:04.981Z",
+      "lastSeen": "2026-11-23T18:06:04.981Z"
+    },
+    {
+      "id": "a5c6207a2b4f4c46266a195802ee7e0a426617b3",
+      "title": "FINAL FANTASY XIV x FINAL FANTASY XVI Crossover Event Returns!",
+      "url": "https://eu.finalfantasyxiv.com/lodestone/topics/detail/a5c6207a2b4f4c46266a195802ee7e0a426617b3",
+      "feed": "topics",
+      "category": "Topics",
+      "published": "2026-11-11T08:00:00Z",
+      "windows": [
+        {
+          "start": "2026-11-01T00:00:00.000Z",
+          "end": "2026-11-30T23:59:00.000Z",
+          "allDay": true,
+          "approx": true,
+          "text": "November 2026"
+        },
+        {
+          "start": "2026-12-01T00:00:00.000Z",
+          "end": "2026-12-31T23:59:00.000Z",
+          "allDay": true,
+          "approx": true,
+          "text": "December 2026"
+        }
+      ],
+      "firstSeen": "2026-11-23T18:06:04.981Z",
+      "lastSeen": "2026-11-23T18:06:04.981Z"
+    },
+    {
+      "id": "66d852908f419eb41502b869c41ab1ee7dd1f35b",
+      "title": "Join us for Rise of the Wolves on 18 November! A PvP show!",
+      "url": "https://eu.finalfantasyxiv.com/lodestone/topics/detail/66d852908f419eb41502b869c41ab1ee7dd1f35b",
+      "feed": "topics",
+      "category": "Topics",
+      "published": "2026-11-11T07:00:00Z",
+      "windows": [
+        {
+          "start": "2026-11-01T00:00:00.000Z",
+          "end": "2026-11-30T23:59:00.000Z",
+          "allDay": true,
+          "approx": true,
+          "text": "November 2026"
+        }
+      ],
+      "firstSeen": "2026-11-23T18:06:04.981Z",
+      "lastSeen": "2026-11-23T18:06:04.981Z"
+    },
+    {
+      "id": "4a75a55e696e2606faa50f7a788f4b4994866d85",
+      "title": "Join us for Duty Commenced on 13 November!",
+      "url": "https://eu.finalfantasyxiv.com/lodestone/topics/detail/4a75a55e696e2606faa50f7a788f4b4994866d85",
+      "feed": "topics",
+      "category": "Topics",
+      "published": "2026-11-06T08:00:00Z",
+      "windows": [
+        {
+          "start": "2026-11-01T00:00:00.000Z",
+          "end": "2026-11-30T23:59:00.000Z",
+          "allDay": true,
+          "approx": true,
+          "text": "November 2026"
+        }
+      ],
+      "firstSeen": "2026-11-23T18:06:04.981Z",
+      "lastSeen": "2026-11-23T18:06:04.981Z"
+    },
+    {
+      "id": "5c3b0f9e2fa2295dfc32c19e02e57e4e0614a09c",
+      "title": "Rolling Out Same-region Player Matching for the North American and European Data Centers!",
+      "url": "https://eu.finalfantasyxiv.com/lodestone/topics/detail/5c3b0f9e2fa2295dfc32c19e02e57e4e0614a09c",
+      "feed": "topics",
+      "category": "Topics",
+      "published": "2026-11-02T08:00:00Z",
+      "windows": [
+        {
+          "start": "2026-11-01T00:00:00.000Z",
+          "end": "2026-11-30T23:59:00.000Z",
+          "allDay": true,
+          "approx": true,
+          "text": "November 2026"
+        }
+      ],
+      "firstSeen": "2026-11-23T18:06:04.981Z",
+      "lastSeen": "2026-11-23T18:06:04.981Z"
+    },
+    {
+      "id": "74bc2f518effac0ba7dd05ab7c971b315795a373",
+      "title": "Limited-time Sale on Optional Items!",
+      "url": "https://eu.finalfantasyxiv.com/lodestone/topics/detail/74bc2f518effac0ba7dd05ab7c971b315795a373",
+      "feed": "topics",
+      "category": "Topics",
+      "published": "2026-11-02T07:00:00Z",
+      "windows": [
+        {
+          "start": "2026-11-01T00:00:00.000Z",
+          "end": "2026-11-30T23:59:00.000Z",
+          "allDay": true,
+          "approx": true,
+          "text": "November 2026"
+        }
+      ],
+      "firstSeen": "2026-11-23T18:06:04.981Z",
+      "lastSeen": "2026-11-23T18:06:04.981Z"
+    },
+    {
+      "id": "7fe4d2afa5bdfdd749a4091aaaee39bfbb695192",
+      "title": "Fan Festival 2026 in Tokyo Live Performance Stream Tickets Now on Sale!",
+      "url": "https://eu.finalfantasyxiv.com/lodestone/topics/detail/7fe4d2afa5bdfdd749a4091aaaee39bfbb695192",
+      "feed": "topics",
+      "category": "Topics",
+      "published": "2026-10-30T08:01:00Z",
+      "windows": [
+        {
+          "start": "2026-11-01T00:00:00.000Z",
+          "end": "2026-11-30T23:59:00.000Z",
+          "allDay": true,
+          "approx": true,
+          "text": "November 2026"
+        },
+        {
+          "start": "2026-10-01T00:00:00.000Z",
+          "end": "2026-10-31T23:59:00.000Z",
+          "allDay": true,
+          "approx": true,
+          "text": "October 2026"
+        }
+      ],
+      "firstSeen": "2026-11-23T18:06:04.981Z",
+      "lastSeen": "2026-11-23T18:06:04.981Z"
+    },
+    {
+      "id": "09a785cb7ffbdf5b4d0b53f66729aba5c19f83da",
+      "title": "Recovery from Japan Data Centre Several Worlds Technical Difficulties (Nov. 5)",
+      "url": "https://eu.finalfantasyxiv.com/lodestone/news/detail/09a785cb7ffbdf5b4d0b53f66729aba5c19f83da",
+      "feed": "news",
+      "category": "Status",
+      "published": "2026-11-05T12:15:00Z",
+      "windows": [
+        {
+          "start": "2026-11-05T00:00:00.000Z",
+          "end": null,
+          "allDay": true,
+          "approx": false,
+          "text": "Nov. 5, 2026 (GMT)"
+        },
+        {
+          "start": "2026-11-04T13:00:00.000Z",
+          "end": null,
+          "allDay": true,
+          "approx": false,
+          "text": "Nov. 5, 2026 (AEDT)"
+        }
+      ],
+      "firstSeen": "2026-11-23T18:06:04.981Z",
+      "lastSeen": "2026-11-23T18:06:04.981Z"
+    },
+    {
+      "id": "3bbb28bbd48627f8924beb85eeb6376bde426cf2",
+      "title": "Japan Data Centre Several Worlds Technical Difficulties (Nov. 5): Follow-up",
+      "url": "https://eu.finalfantasyxiv.com/lodestone/news/detail/3bbb28bbd48627f8924beb85eeb6376bde426cf2",
+      "feed": "news",
+      "category": "Status",
+      "published": "2026-11-05T11:25:00Z",
+      "windows": [
+        {
+          "start": "2026-11-05T00:00:00.000Z",
+          "end": null,
+          "allDay": true,
+          "approx": false,
+          "text": "Nov. 5, 2026 (GMT)"
+        },
+        {
+          "start": "2026-11-04T13:00:00.000Z",
+          "end": null,
+          "allDay": true,
+          "approx": false,
+          "text": "Nov. 5, 2026 (AEDT)"
+        }
+      ],
+      "firstSeen": "2026-11-23T18:06:04.981Z",
+      "lastSeen": "2026-11-23T18:06:04.981Z"
+    },
+    {
+      "id": "acf9642296a9fd66b64266bcc2bbd30cd21f8e2a",
+      "title": "Actions Taken Against In-Game RMT & Other Illicit Activities (Nov. 12)",
+      "url": "https://eu.finalfantasyxiv.com/lodestone/news/detail/acf9642296a9fd66b64266bcc2bbd30cd21f8e2a",
+      "feed": "news",
+      "category": "Notices",
+      "published": "2026-11-12T08:00:00Z",
+      "windows": [
+        {
+          "start": "2026-11-05T08:00:00.000Z",
+          "end": "2026-11-12T07:59:00.000Z",
+          "allDay": true,
+          "approx": false,
+          "text": "Nov. 5, 2026 to Nov. 11, 2026 (PST)"
+        }
+      ],
+      "firstSeen": "2026-11-23T18:06:04.981Z",
+      "lastSeen": "2026-11-23T18:06:04.981Z"
+    },
+    {
+      "id": "d19f50280ff7401464804af546aaef7b06f29979",
+      "title": "The Lodestone Maintenance (Nov. 9-10): Completed Early",
+      "url": "https://eu.finalfantasyxiv.com/lodestone/news/detail/d19f50280ff7401464804af546aaef7b06f29979",
+      "feed": "news",
+      "category": "Maintenance",
+      "published": "2026-11-10T09:45:00Z",
+      "windows": [
+        {
+          "start": "2026-11-09T00:00:00.000Z",
+          "end": null,
+          "allDay": true,
+          "approx": false,
+          "text": "Nov. 9, 2026 (GMT)"
+        },
+        {
+          "start": "2026-11-10T00:00:00.000Z",
+          "end": null,
+          "allDay": true,
+          "approx": false,
+          "text": "Nov. 10, 2026 (GMT)"
+        },
+        {
+          "start": "2026-11-08T13:00:00.000Z",
+          "end": null,
+          "allDay": true,
+          "approx": false,
+          "text": "Nov. 9, 2026 (AEDT)"
+        },
+        {
+          "start": "2026-11-09T13:00:00.000Z",
+          "end": null,
+          "allDay": true,
+          "approx": false,
+          "text": "Nov. 10, 2026 (AEDT)"
+        }
+      ],
+      "firstSeen": "2026-11-23T18:06:04.981Z",
+      "lastSeen": "2026-11-23T18:06:04.981Z"
+    },
+    {
+      "id": "bc432be19d79ecc0773823582876ab89c14cfbfb",
+      "title": "Companion App Maintenance (Nov. 9-10): Follow-up",
+      "url": "https://eu.finalfantasyxiv.com/lodestone/news/detail/bc432be19d79ecc0773823582876ab89c14cfbfb",
+      "feed": "news",
+      "category": "Maintenance",
+      "published": "2026-11-10T09:10:00Z",
+      "windows": [
+        {
+          "start": "2026-11-09T00:00:00.000Z",
+          "end": null,
+          "allDay": true,
+          "approx": false,
+          "text": "Nov. 9, 2026 (GMT)"
+        },
+        {
+          "start": "2026-11-10T00:00:00.000Z",
+          "end": null,
+          "allDay": true,
+          "approx": false,
+          "text": "Nov. 10, 2026 (GMT)"
+        },
+        {
+          "start": "2026-11-08T13:00:00.000Z",
+          "end": null,
+          "allDay": true,
+          "approx": false,
+          "text": "Nov. 9, 2026 (AEDT)"
+        },
+        {
+          "start": "2026-11-09T13:00:00.000Z",
+          "end": null,
+          "allDay": true,
+          "approx": false,
+          "text": "Nov. 10, 2026 (AEDT)"
+        }
+      ],
+      "firstSeen": "2026-11-23T18:06:04.981Z",
+      "lastSeen": "2026-11-23T18:06:04.981Z"
+    },
+    {
+      "id": "8ac8c6e6e500ad434990990242d05cd37b11b27b",
+      "title": "All Worlds Maintenance (Nov. 9-10): Follow-up",
+      "url": "https://eu.finalfantasyxiv.com/lodestone/news/detail/8ac8c6e6e500ad434990990242d05cd37b11b27b",
+      "feed": "news",
+      "category": "Maintenance",
+      "published": "2026-11-10T09:00:00Z",
+      "windows": [
+        {
+          "start": "2026-11-09T00:00:00.000Z",
+          "end": null,
+          "allDay": true,
+          "approx": false,
+          "text": "Nov. 9, 2026 (GMT)"
+        },
+        {
+          "start": "2026-11-10T00:00:00.000Z",
+          "end": null,
+          "allDay": true,
+          "approx": false,
+          "text": "Nov. 10, 2026 (GMT)"
+        },
+        {
+          "start": "2026-11-08T13:00:00.000Z",
+          "end": null,
+          "allDay": true,
+          "approx": false,
+          "text": "Nov. 9, 2026 (AEDT)"
+        },
+        {
+          "start": "2026-11-09T13:00:00.000Z",
+          "end": null,
+          "allDay": true,
+          "approx": false,
+          "text": "Nov. 10, 2026 (AEDT)"
+        }
+      ],
+      "firstSeen": "2026-11-23T18:06:04.981Z",
+      "lastSeen": "2026-11-23T18:06:04.981Z"
+    },
+    {
+      "id": "03e18dbbd9872c4889a221b7ca5b8c98abadd8e8",
+      "title": "Home World Transfer / Data Center Travel Technical Difficulties (Nov. 9)",
+      "url": "https://eu.finalfantasyxiv.com/lodestone/news/detail/03e18dbbd9872c4889a221b7ca5b8c98abadd8e8",
+      "feed": "news",
+      "category": "Status",
+      "published": "2026-11-09T05:10:00Z",
+      "windows": [
+        {
+          "start": "2026-11-09T00:00:00.000Z",
+          "end": null,
+          "allDay": true,
+          "approx": false,
+          "text": "Nov. 9, 2026 (GMT)"
+        },
+        {
+          "start": "2026-11-08T13:00:00.000Z",
+          "end": null,
+          "allDay": true,
+          "approx": false,
+          "text": "Nov. 9, 2026 (AEDT)"
+        },
+        {
+          "start": "2026-11-10T00:00:00.000Z",
+          "end": null,
+          "allDay": true,
+          "approx": false,
+          "text": "Nov. 10, 2026 (GMT)"
+        }
+      ],
+      "firstSeen": "2026-11-23T18:06:04.981Z",
+      "lastSeen": "2026-11-23T18:06:04.981Z"
+    },
+    {
+      "id": "2cc7408bc5d57ccaff67b57604adfe891305ad4e",
+      "title": "The Lodestone Maintenance (Nov. 9-10)",
+      "url": "https://eu.finalfantasyxiv.com/lodestone/news/detail/2cc7408bc5d57ccaff67b57604adfe891305ad4e",
+      "feed": "news",
+      "category": "Maintenance",
+      "published": "2026-11-06T07:40:00Z",
+      "windows": [
+        {
+          "start": "2026-11-09T00:00:00.000Z",
+          "end": null,
+          "allDay": true,
+          "approx": false,
+          "text": "Nov. 9, 2026 (GMT)"
+        },
+        {
+          "start": "2026-11-10T00:00:00.000Z",
+          "end": null,
+          "allDay": true,
+          "approx": false,
+          "text": "Nov. 10, 2026 (GMT)"
+        },
+        {
+          "start": "2026-11-08T13:00:00.000Z",
+          "end": null,
+          "allDay": true,
+          "approx": false,
+          "text": "Nov. 9, 2026 (AEDT)"
+        },
+        {
+          "start": "2026-11-09T13:00:00.000Z",
+          "end": null,
+          "allDay": true,
+          "approx": false,
+          "text": "Nov. 10, 2026 (AEDT)"
+        }
+      ],
+      "firstSeen": "2026-11-23T18:06:04.981Z",
+      "lastSeen": "2026-11-23T18:06:04.981Z"
+    },
+    {
+      "id": "fae7a5d1c9e7f2967f2edd1db9ae78f14b3d0377",
+      "title": "All Worlds Maintenance (Nov. 9-10)",
+      "url": "https://eu.finalfantasyxiv.com/lodestone/news/detail/fae7a5d1c9e7f2967f2edd1db9ae78f14b3d0377",
+      "feed": "news",
+      "category": "Maintenance",
+      "published": "2026-11-06T07:00:00Z",
+      "windows": [
+        {
+          "start": "2026-11-09T00:00:00.000Z",
+          "end": null,
+          "allDay": true,
+          "approx": false,
+          "text": "Nov. 9, 2026 (GMT)"
+        },
+        {
+          "start": "2026-11-10T00:00:00.000Z",
+          "end": null,
+          "allDay": true,
+          "approx": false,
+          "text": "Nov. 10, 2026 (GMT)"
+        },
+        {
+          "start": "2026-11-08T13:00:00.000Z",
+          "end": null,
+          "allDay": true,
+          "approx": false,
+          "text": "Nov. 9, 2026 (AEDT)"
+        },
+        {
+          "start": "2026-11-09T13:00:00.000Z",
+          "end": null,
+          "allDay": true,
+          "approx": false,
+          "text": "Nov. 10, 2026 (AEDT)"
+        }
+      ],
+      "firstSeen": "2026-11-23T18:06:04.981Z",
+      "lastSeen": "2026-11-23T18:06:04.981Z"
+    },
+    {
+      "id": "5c768eeb39e5ddfcd86cc66a5b139f449010ae76",
+      "title": "Companion App Maintenance (Nov. 9-10)",
+      "url": "https://eu.finalfantasyxiv.com/lodestone/news/detail/5c768eeb39e5ddfcd86cc66a5b139f449010ae76",
+      "feed": "news",
+      "category": "Maintenance",
+      "published": "2026-11-06T07:00:00Z",
+      "windows": [
+        {
+          "start": "2026-11-09T00:00:00.000Z",
+          "end": null,
+          "allDay": true,
+          "approx": false,
+          "text": "Nov. 9, 2026 (GMT)"
+        },
+        {
+          "start": "2026-11-10T00:00:00.000Z",
+          "end": null,
+          "allDay": true,
+          "approx": false,
+          "text": "Nov. 10, 2026 (GMT)"
+        },
+        {
+          "start": "2026-11-08T13:00:00.000Z",
+          "end": null,
+          "allDay": true,
+          "approx": false,
+          "text": "Nov. 9, 2026 (AEDT)"
+        },
+        {
+          "start": "2026-11-09T13:00:00.000Z",
+          "end": null,
+          "allDay": true,
+          "approx": false,
+          "text": "Nov. 10, 2026 (AEDT)"
+        }
+      ],
+      "firstSeen": "2026-11-23T18:06:04.981Z",
+      "lastSeen": "2026-11-23T18:06:04.981Z"
+    },
+    {
+      "id": "96636b5368918dde01e4a325f5f9bcfbdf965abe",
+      "title": "The Lodestone Updated (Nov. 10)",
+      "url": "https://eu.finalfantasyxiv.com/lodestone/news/detail/96636b5368918dde01e4a325f5f9bcfbdf965abe",
+      "feed": "news",
+      "category": "Updates",
+      "published": "2026-11-10T10:30:00Z",
+      "windows": [
+        {
+          "start": "2026-11-10T00:00:00.000Z",
+          "end": null,
+          "allDay": true,
+          "approx": false,
+          "text": "Nov. 10, 2026 (GMT)"
+        },
+        {
+          "start": "2026-11-09T13:00:00.000Z",
+          "end": null,
+          "allDay": true,
+          "approx": false,
+          "text": "Nov. 10, 2026 (AEDT)"
+        }
+      ],
+      "firstSeen": "2026-11-23T18:06:04.981Z",
+      "lastSeen": "2026-11-23T18:06:04.981Z"
+    },
+    {
+      "id": "b492d27bad86fef6783274133d28997d182e7986",
+      "title": "FINAL FANTASY XIV Updated (Nov. 10)",
+      "url": "https://eu.finalfantasyxiv.com/lodestone/news/detail/b492d27bad86fef6783274133d28997d182e7986",
+      "feed": "news",
+      "category": "Updates",
+      "published": "2026-11-10T04:30:00Z",
+      "windows": [
+        {
+          "start": "2026-11-10T00:00:00.000Z",
+          "end": null,
+          "allDay": true,
+          "approx": false,
+          "text": "Nov. 10, 2026 (GMT)"
+        },
+        {
+          "start": "2026-11-09T13:00:00.000Z",
+          "end": null,
+          "allDay": true,
+          "approx": false,
+          "text": "Nov. 10, 2026 (AEDT)"
+        }
+      ],
+      "firstSeen": "2026-11-23T18:06:04.981Z",
+      "lastSeen": "2026-11-23T18:06:04.981Z"
+    },
+    {
+      "id": "ad48b0f69077356887867160091b30c151dcaba4",
+      "title": "Actions Taken Against In-Game RMT & Other Illicit Activities (Nov. 19)",
+      "url": "https://eu.finalfantasyxiv.com/lodestone/news/detail/ad48b0f69077356887867160091b30c151dcaba4",
+      "feed": "news",
+      "category": "Notices",
+      "published": "2026-11-19T08:00:00Z",
+      "windows": [
+        {
+          "start": "2026-11-12T08:00:00.000Z",
+          "end": "2026-11-19T07:59:00.000Z",
+          "allDay": true,
+          "approx": false,
+          "text": "Nov. 12, 2026 to Nov. 18, 2026 (PST)"
+        }
+      ],
+      "firstSeen": "2026-11-23T18:06:04.981Z",
+      "lastSeen": "2026-11-23T18:06:04.981Z"
+    },
+    {
+      "id": "df6ffb890027fc6227d7decc75e0320bc4e6240d",
+      "title": "Companion App Updated (Nov. 13)",
+      "url": "https://eu.finalfantasyxiv.com/lodestone/news/detail/df6ffb890027fc6227d7decc75e0320bc4e6240d",
+      "feed": "news",
+      "category": "Updates",
+      "published": "2026-11-13T04:10:00Z",
+      "windows": [
+        {
+          "start": "2026-11-13T04:00:00.000Z",
+          "end": null,
+          "allDay": false,
+          "approx": false,
+          "text": "Nov. 13, 2026 04:00 a.m. (GMT)"
+        }
+      ],
+      "firstSeen": "2026-11-23T18:06:04.981Z",
+      "lastSeen": "2026-11-23T18:06:04.981Z"
+    },
+    {
+      "id": "974221bcee7c351504c7296dd32882d89e11f856",
+      "title": "Recovery from Japan Data Centre Instanced Areas Technical Difficulties (Nov. 15)",
+      "url": "https://eu.finalfantasyxiv.com/lodestone/news/detail/974221bcee7c351504c7296dd32882d89e11f856",
+      "feed": "news",
+      "category": "Status",
+      "published": "2026-11-15T14:40:00Z",
+      "windows": [
+        {
+          "start": "2026-11-15T00:00:00.000Z",
+          "end": null,
+          "allDay": true,
+          "approx": false,
+          "text": "Nov. 15, 2026 (GMT)"
+        },
+        {
+          "start": "2026-11-15T13:00:00.000Z",
+          "end": null,
+          "allDay": true,
+          "approx": false,
+          "text": "Nov. 16, 2026 (AEDT)"
+        }
+      ],
+      "firstSeen": "2026-11-23T18:06:04.981Z",
+      "lastSeen": "2026-11-23T18:06:04.981Z"
+    },
+    {
+      "id": "be021975a3f1345201261cb1a6eae8987024d41b",
+      "title": "Online Store / Mog Station Maintenance (Nov. 16)",
+      "url": "https://eu.finalfantasyxiv.com/lodestone/news/detail/be021975a3f1345201261cb1a6eae8987024d41b",
+      "feed": "news",
+      "category": "Maintenance",
+      "published": "2026-11-14T07:00:00Z",
+      "windows": [
+        {
+          "start": "2026-11-16T00:00:00.000Z",
+          "end": null,
+          "allDay": true,
+          "approx": false,
+          "text": "Nov. 16, 2026 (GMT)"
+        },
+        {
+          "start": "2026-11-15T13:00:00.000Z",
+          "end": null,
+          "allDay": true,
+          "approx": false,
+          "text": "Nov. 16, 2026 (AEDT)"
+        }
+      ],
+      "firstSeen": "2026-11-23T18:06:04.981Z",
+      "lastSeen": "2026-11-23T18:06:04.981Z"
+    },
+    {
+      "id": "7cd00028fa344e0921621e2f6b56f12d37c783e2",
+      "title": "Ceremony of Eternal Bonding Reservation Restrictions",
+      "url": "https://eu.finalfantasyxiv.com/lodestone/news/detail/7cd00028fa344e0921621e2f6b56f12d37c783e2",
+      "feed": "news",
+      "category": "Notices",
+      "published": "2026-11-17T04:00:00Z",
+      "windows": [
+        {
+          "start": "2026-11-17T00:00:00.000Z",
+          "end": null,
+          "allDay": true,
+          "approx": false,
+          "text": "Nov. 17, 2026 (GMT)"
+        },
+        {
+          "start": "2026-11-18T00:00:00.000Z",
+          "end": null,
+          "allDay": true,
+          "approx": false,
+          "text": "Nov. 18, 2026 (GMT)"
+        },
+        {
+          "start": "2026-11-19T00:00:00.000Z",
+          "end": null,
+          "allDay": true,
+          "approx": false,
+          "text": "Nov. 19, 2026 (GMT)"
+        },
+        {
+          "start": "2026-11-24T00:00:00.000Z",
+          "end": null,
+          "allDay": true,
+          "approx": false,
+          "text": "Nov. 24, 2026 (GMT)"
+        },
+        {
+          "start": "2026-11-25T00:00:00.000Z",
+          "end": null,
+          "allDay": true,
+          "approx": false,
+          "text": "Nov. 25, 2026 (GMT)"
+        },
+        {
+          "start": "2026-11-26T00:00:00.000Z",
+          "end": null,
+          "allDay": true,
+          "approx": false,
+          "text": "Nov. 26, 2026 (GMT)"
+        },
+        {
+          "start": "2026-12-01T00:00:00.000Z",
+          "end": null,
+          "allDay": true,
+          "approx": false,
+          "text": "Dec. 1, 2026 (GMT)"
+        },
+        {
+          "start": "2026-12-02T00:00:00.000Z",
+          "end": null,
+          "allDay": true,
+          "approx": false,
+          "text": "Dec. 2, 2026 (GMT)"
+        },
+        {
+          "start": "2026-12-03T00:00:00.000Z",
+          "end": null,
+          "allDay": true,
+          "approx": false,
+          "text": "Dec. 3, 2026 (GMT)"
+        }
+      ],
+      "firstSeen": "2026-11-23T18:06:04.981Z",
+      "lastSeen": "2026-11-23T18:06:04.981Z"
+    },
+    {
+      "id": "769cf922b421976a415d4daca14aea790dfa3344",
+      "title": "Mog Station Maintenance (Nov. 17)",
+      "url": "https://eu.finalfantasyxiv.com/lodestone/news/detail/769cf922b421976a415d4daca14aea790dfa3344",
+      "feed": "news",
+      "category": "Maintenance",
+      "published": "2026-11-15T07:00:00Z",
+      "windows": [
+        {
+          "start": "2026-11-17T00:00:00.000Z",
+          "end": null,
+          "allDay": true,
+          "approx": false,
+          "text": "Nov. 17, 2026 (GMT)"
+        },
+        {
+          "start": "2026-11-16T13:00:00.000Z",
+          "end": null,
+          "allDay": true,
+          "approx": false,
+          "text": "Nov. 17, 2026 (AEDT)"
+        }
+      ],
+      "firstSeen": "2026-11-23T18:06:04.981Z",
+      "lastSeen": "2026-11-23T18:06:04.981Z"
+    },
+    {
+      "id": "db0cd930fd808495d30036d36b3f03c527eeaafe",
+      "title": "Recovery from The Lodestone Technical Difficulties (Nov. 19)",
+      "url": "https://eu.finalfantasyxiv.com/lodestone/news/detail/db0cd930fd808495d30036d36b3f03c527eeaafe",
+      "feed": "news",
+      "category": "Status",
+      "published": "2026-11-19T02:50:00Z",
+      "windows": [
+        {
+          "start": "2026-11-19T00:00:00.000Z",
+          "end": null,
+          "allDay": true,
+          "approx": false,
+          "text": "Nov. 19, 2026 (GMT)"
+        },
+        {
+          "start": "2026-11-18T13:00:00.000Z",
+          "end": null,
+          "allDay": true,
+          "approx": false,
+          "text": "Nov. 19, 2026 (AEDT)"
+        },
+        {
+          "start": "2026-11-18T00:00:00.000Z",
+          "end": null,
+          "allDay": true,
+          "approx": false,
+          "text": "Nov. 18, 2026 (GMT)"
+        }
+      ],
+      "firstSeen": "2026-11-23T18:06:04.981Z",
+      "lastSeen": "2026-11-23T18:06:04.981Z"
+    },
+    {
+      "id": "0e28803c10acdaa55df5639d6b7f7e471e861c5d",
+      "title": "Letter from the Producer LIVE Part XCIV Set for 4 December",
+      "url": "https://eu.finalfantasyxiv.com/lodestone/topics/detail/0e28803c10acdaa55df5639d6b7f7e471e861c5d",
+      "feed": "topics",
+      "category": "Topics",
+      "published": "2026-11-20T09:00:00Z",
+      "windows": [
+        {
+          "start": "2026-12-01T00:00:00.000Z",
+          "end": "2026-12-31T23:59:00.000Z",
+          "allDay": true,
+          "approx": true,
+          "text": "December 2026"
+        }
+      ],
+      "firstSeen": "2026-11-23T18:06:04.981Z",
+      "lastSeen": "2026-11-23T18:06:04.981Z"
+    },
+    {
+      "id": "2eff3491a917e74d2ff1667486191f0cb22f8c76",
+      "title": "Crucible Rankings Season 1 Concludes Soon & Season 2 Start Date Announced",
+      "url": "https://eu.finalfantasyxiv.com/lodestone/topics/detail/2eff3491a917e74d2ff1667486191f0cb22f8c76",
+      "feed": "topics",
+      "category": "Topics",
+      "published": "2026-11-17T08:00:00Z",
+      "windows": [
+        {
+          "start": "2026-12-01T00:00:00.000Z",
+          "end": "2026-12-31T23:59:00.000Z",
+          "allDay": true,
+          "approx": true,
+          "text": "December 2026"
+        }
+      ],
+      "firstSeen": "2026-11-23T18:06:04.981Z",
+      "lastSeen": "2026-11-23T18:06:04.981Z"
+    },
+    {
+      "id": "eb90f30d42685d87fa3fa9705d680694804e6fbf",
+      "title": "Sanctuary's Heart Vol. 2: FINAL FANTASY XIV Chill Arrangement Album Coming Soon!",
+      "url": "https://eu.finalfantasyxiv.com/lodestone/topics/detail/eb90f30d42685d87fa3fa9705d680694804e6fbf",
+      "feed": "topics",
+      "category": "Topics",
+      "published": "2026-11-10T10:00:00Z",
+      "windows": [
+        {
+          "start": "2027-01-01T00:00:00.000Z",
+          "end": "2027-01-31T23:59:00.000Z",
+          "allDay": true,
+          "approx": true,
+          "text": "January 2027"
+        }
+      ],
+      "firstSeen": "2026-11-23T18:06:04.981Z",
+      "lastSeen": "2026-11-23T18:06:04.981Z"
+    },
+    {
+      "id": "1ce048bb8e6f66cb681604f8636bb139ce2fff9b",
+      "title": "FINAL FANTASY XIV: Evercold Pre-orders Now Available!",
+      "url": "https://eu.finalfantasyxiv.com/lodestone/topics/detail/1ce048bb8e6f66cb681604f8636bb139ce2fff9b",
+      "feed": "topics",
+      "category": "Topics",
+      "published": "2026-11-04T11:45:00Z",
+      "windows": [
+        {
+          "start": "2027-02-01T00:00:00.000Z",
+          "end": "2027-02-28T23:59:00.000Z",
+          "allDay": true,
+          "approx": true,
+          "text": "February 2027"
+        }
+      ],
+      "firstSeen": "2026-11-23T18:06:04.981Z",
+      "lastSeen": "2026-11-23T18:06:04.981Z"
+    },
+    {
+      "id": "f614b50997ea4024e9efc3125af15363dbe100a6",
+      "title": "FINAL FANTASY XIV: Evercold Releases 23 February 2027!",
+      "url": "https://eu.finalfantasyxiv.com/lodestone/topics/detail/f614b50997ea4024e9efc3125af15363dbe100a6",
+      "feed": "topics",
+      "category": "Topics",
+      "published": "2026-10-31T04:40:00Z",
+      "windows": [
+        {
+          "start": "2027-02-01T00:00:00.000Z",
+          "end": "2027-02-28T23:59:00.000Z",
+          "allDay": true,
+          "approx": true,
+          "text": "February 2027"
+        },
+        {
+          "start": "2026-11-01T00:00:00.000Z",
+          "end": "2026-11-30T23:59:00.000Z",
+          "allDay": true,
+          "approx": true,
+          "text": "November 2026"
+        }
+      ],
+      "firstSeen": "2026-11-23T18:06:04.981Z",
+      "lastSeen": "2026-11-23T18:06:04.981Z"
+    }
+  ]
+}
