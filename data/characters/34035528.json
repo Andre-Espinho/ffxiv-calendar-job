@@ -151,5 +151,122 @@
       "level": 100
     }
   ],
-  "fetched": "2026-11-23T18:42:11.455Z"
+  "fetched": "2026-11-23T18:53:47.272Z",
+  "gear": [
+    {
+      "name": "Runaway Rod",
+      "category": "Two-handed Thaumaturge's Arm",
+      "itemLevel": 775
+    },
+    {
+      "name": "Bygone Brass Calot of Casting",
+      "category": "Head",
+      "itemLevel": 780
+    },
+    {
+      "name": "Heavyweight Coat of Casting",
+      "category": "Body",
+      "itemLevel": 770
+    },
+    {
+      "name": "Vana'dielian Gloves of Casting",
+      "category": "Hands",
+      "itemLevel": 780
+    },
+    {
+      "name": "Augmented Bygone Brass Halfslops of Casting",
+      "category": "Legs",
+      "itemLevel": 790
+    },
+    {
+      "name": "Heavyweight Sabatons of Casting",
+      "category": "Feet",
+      "itemLevel": 770
+    },
+    {
+      "name": "Heavyweight Ear Cuff of Casting",
+      "category": "Earrings",
+      "itemLevel": 770
+    },
+    {
+      "name": "Heavyweight Neckband of Casting",
+      "category": "Necklace",
+      "itemLevel": 770
+    },
+    {
+      "name": "Heavyweight Bracelets of Casting",
+      "category": "Bracelets",
+      "itemLevel": 770
+    },
+    {
+      "name": "Heavyweight Ring of Casting",
+      "category": "Ring",
+      "itemLevel": 770
+    },
+    {
+      "name": "Bygone Brass Ring of Casting",
+      "category": "Ring",
+      "itemLevel": 780
+    },
+    {
+      "name": "Soul of the Black Mage",
+      "category": "Soul Crystal",
+      "itemLevel": 30
+    }
+  ],
+  "itemLevel": 775,
+  "attributes": {
+    "Strength": 201,
+    "Dexterity": 440,
+    "Vitality": 6002,
+    "Intelligence": 6084,
+    "Mind": 328,
+    "Critical Hit Rate": 2150,
+    "Determination": 1606,
+    "Direct Hit Rate": 2097,
+    "Defense": 2898,
+    "Magic Defense": 5069,
+    "Attack Power": 201,
+    "Skill Speed": 420,
+    "Attack Magic Potency": 6084,
+    "Healing Magic Potency": 328,
+    "Spell Speed": 1816,
+    "Tenacity": 420,
+    "HP": 171616,
+    "MP": 10000
+  },
+  "mounts": 70,
+  "minions": 177,
+  "achievements": {
+    "points": 10600,
+    "count": 1270
+  },
+  "special": [
+    {
+      "area": "DoW/DoM",
+      "name": "Beastmaster",
+      "level": 36
+    },
+    {
+      "area": "DoW/DoM",
+      "name": "Blue Mage",
+      "level": 70
+    },
+    {
+      "area": "The Forbidden Land, Eureka",
+      "name": "Elemental Level",
+      "level": 51
+    },
+    {
+      "area": "Bozjan Southern Front",
+      "name": "Resistance Rank",
+      "level": 25
+    },
+    {
+      "area": "Occult Crescent",
+      "name": "Knowledge Level",
+      "level": 28
+    }
+  ],
+  "gcRank": "Storm Captain"
 }
