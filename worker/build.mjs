@@ -1,8 +1,13 @@
-// Makes worker/dist/worker.js: one self-contained file to paste into the Cloudflare dashboard editor.
+// Builds two single files:
+//   worker/dist/worker.js            the Worker, to paste into the Cloudflare dashboard editor
+//   worker/dist/lodestone-parse.js   the shared parser for the wallpaper (sets window.LodestoneParse)
 import { readFile, writeFile, mkdir } from 'node:fs/promises';
-const lib = (await readFile(new URL('../scripts/lib/character-parse.mjs', import.meta.url), 'utf8')).replace(/^export /gm, '');
-const w = (await readFile(new URL('./index.mjs', import.meta.url), 'utf8')).replace(/^import .*\n/m, '');
+const rd = p => readFile(new URL(p, import.meta.url), 'utf8');
+const lib = await rd('../scripts/lib/character-parse.mjs');
+const names = [...lib.matchAll(/^export (?:async )?(?:function|const) (\w+)/gm)].map(m => m[1]);
 await mkdir(new URL('./dist/', import.meta.url), { recursive: true });
-await writeFile(new URL('./dist/worker.js', import.meta.url),
-  '// Built from worker/index.mjs and scripts/lib/character-parse.mjs. Regenerate with: node worker/build.mjs\n' + lib + '\n' + w);
-console.log('worker/dist/worker.js written');
+await writeFile(new URL('./dist/worker.js', import.meta.url), '// Built from worker/index.mjs. Regenerate with: node worker/build.mjs\n' + await rd('./index.mjs'));
+await writeFile(new URL('./dist/lodestone-parse.js', import.meta.url),
+  '// Built from scripts/lib/character-parse.mjs. Regenerate with: node worker/build.mjs\n(() => {\n' +
+  lib.replace(/^export /gm, '') + `\nwindow.LodestoneParse = { ${names.join(', ')} };\n})();\n`);
+console.log('built', names.join(', '));
