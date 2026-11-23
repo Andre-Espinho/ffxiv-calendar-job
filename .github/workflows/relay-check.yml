@@ -1,0 +1,22 @@
+name: Check Cloudflare relay
+
+on:
+  workflow_dispatch:
+    inputs:
+      relay:
+        description: "Relay URL"
+        default: "https://lodestone-relay.ceirin2.workers.dev"
+      id:
+        description: "Character ID"
+        default: "34035528"
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: node scripts/relay-check.mjs "${{ inputs.relay }}" "${{ inputs.id }}"
