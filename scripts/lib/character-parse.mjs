@@ -72,7 +72,7 @@ export function parseSpecialLevels(html, jobNames) {
   const re = /character__job__level">([\d-]+)<\/div>\s*<div class="character__job__name[^"]*"[^>]*>([^<]+)<\/div>/g;
   for (let m; (m = re.exec(html));) {
     const name = decode(m[2]).trim();
-    if (jobNames.has(name)) continue;
+    if (jobNames.has(name) || !/Level|Rank/.test(name)) continue;    // jobs (incl. limited jobs) are in levels already
     const head = html.slice(0, m.index).match(/<h3 class="heading--md">([^<]+)<\/h3>(?![\s\S]*<h3 class="heading--md">)/);
     out.push({ area: head ? decode(head[1]).trim() : null, name, level: m[1] === '-' ? 0 : +m[1] });
   }
