@@ -101,3 +101,32 @@ export function parseAttributes(html) {
   const mp = html.match(/character__param__text__mp--en-us">MP<\/p><span>([\d,]+)</); if (mp) out.MP = num(mp[1]);
   return out;
 }
+
+// Fetches every page the player card needs. `get(url, headers)` returns the page text or null,
+// so the GitHub job and the Worker can each supply their own fetching.
+export async function fetchCharacter(id, get, REGION = 'na') {
+  const base = `https://${REGION}.finalfantasyxiv.com/lodestone/character/${id}`;
+  const now = () => (typeof performance !== 'undefined' ? performance.now() : Date.now());
+  let parseMs = 0; const timed = f => { const t = now(); const r = f(); parseMs += now() - t; return r; };
+  const html = await get(base + '/');
+  if (!html) return null;
+  const c = timed(() => parseCharacter(html, id, REGION));
+  if (!c.name) return null;
+  const slots = timed(() => [...new Set([...html.matchAll(/equipment\/tooltip\/(\d+)/g)].map(m => +m[1]))].sort((a, b) => a - b));
+  const xhr = { 'X-Requested-With': 'XMLHttpRequest' };
+  const [tips, mounts, minions, ach, cj] = await Promise.all([
+    Promise.all(slots.map(n => get(`${base}/equipment/tooltip/${n}`, xhr))),
+    get(base + '/mount/'), get(base + '/minion/'), get(base + '/achievement/'), get(base + '/class_job/')]);
+  timed(() => {
+    c.gear = tips.filter(Boolean).map(parseTooltip);
+    c.itemLevel = averageItemLevel(c.gear);
+    c.attributes = parseAttributes(html);
+    c.mounts = mounts ? totalFrom(mounts) : null;
+    c.minions = minions ? totalFrom(minions) : null;
+    c.achievements = ach ? parseAchievements(ach) : null;
+    c.special = cj ? parseSpecialLevels(cj, new Set(c.levels.map(l => l.job))) : [];
+    c.gcRank = c.grandCompany ? c.grandCompany.split(' / ')[1] || null : null;
+  });
+  c.parseMs = Math.round(parseMs * 10) / 10;
+  return c;
+}
