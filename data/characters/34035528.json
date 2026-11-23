@@ -151,7 +151,7 @@
       "level": 100
     }
   ],
-  "fetched": "2026-11-23T18:53:47.272Z",
+  "fetched": "2026-11-23T18:54:41.919Z",
   "gear": [
     {
       "name": "Runaway Rod",
@@ -242,16 +242,6 @@
     "count": 1270
   },
   "special": [
-    {
-      "area": "DoW/DoM",
-      "name": "Beastmaster",
-      "level": 36
-    },
-    {
-      "area": "DoW/DoM",
-      "name": "Blue Mage",
-      "level": 70
-    },
     {
       "area": "The Forbidden Land, Eureka",
       "name": "Elemental Level",
