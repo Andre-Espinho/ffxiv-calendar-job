@@ -1,0 +1,155 @@
+{
+  "id": "34035528",
+  "url": "https://na.finalfantasyxiv.com/lodestone/character/34035528/",
+  "name": "Kaori Yatsurugi",
+  "title": "Corpse Dancer",
+  "world": "Malboro [Crystal]",
+  "raceClanGender": "Au Ra\nXaela / ♀",
+  "nameday": "30th Sun of the 4th Astral Moon",
+  "cityState": "Gridania",
+  "grandCompany": "Maelstrom / Storm Captain",
+  "freeCompany": "Crystal Veil",
+  "activeJob": null,
+  "activeLevel": 100,
+  "portrait": "https://img2.finalfantasyxiv.com/f/91cf6a74c68684c9cbbebdba9e99c811_2e97c13fdd593d15d543093f8a37b6f0fl0.jpg?1795457085",
+  "face": "https://img2.finalfantasyxiv.com/f/91cf6a74c68684c9cbbebdba9e99c811_2e97c13fdd593d15d543093f8a37b6f0fc0.jpg?1795457085",
+  "levels": [
+    {
+      "job": "Paladin",
+      "level": 100
+    },
+    {
+      "job": "Warrior",
+      "level": 60
+    },
+    {
+      "job": "Dark Knight",
+      "level": 64
+    },
+    {
+      "job": "Gunbreaker",
+      "level": 87
+    },
+    {
+      "job": "Conjurer",
+      "level": 1
+    },
+    {
+      "job": "Scholar",
+      "level": 90
+    },
+    {
+      "job": "Astrologian",
+      "level": 38
+    },
+    {
+      "job": "Sage",
+      "level": 91
+    },
+    {
+      "job": "Monk",
+      "level": 72
+    },
+    {
+      "job": "Dragoon",
+      "level": 90
+    },
+    {
+      "job": "Ninja",
+      "level": 94
+    },
+    {
+      "job": "Samurai",
+      "level": 100
+    },
+    {
+      "job": "Reaper",
+      "level": 95
+    },
+    {
+      "job": "Viper",
+      "level": 100
+    },
+    {
+      "job": "Beastmaster (Limited Job)",
+      "level": 36
+    },
+    {
+      "job": "Bard",
+      "level": 92
+    },
+    {
+      "job": "Machinist",
+      "level": 100
+    },
+    {
+      "job": "Dancer",
+      "level": 94
+    },
+    {
+      "job": "Black Mage",
+      "level": 100
+    },
+    {
+      "job": "Summoner",
+      "level": 90
+    },
+    {
+      "job": "Red Mage",
+      "level": 85
+    },
+    {
+      "job": "Pictomancer",
+      "level": 100
+    },
+    {
+      "job": "Blue Mage (Limited Job)",
+      "level": 70
+    },
+    {
+      "job": "Carpenter",
+      "level": 100
+    },
+    {
+      "job": "Blacksmith",
+      "level": 100
+    },
+    {
+      "job": "Armorer",
+      "level": 100
+    },
+    {
+      "job": "Goldsmith",
+      "level": 100
+    },
+    {
+      "job": "Leatherworker",
+      "level": 100
+    },
+    {
+      "job": "Weaver",
+      "level": 100
+    },
+    {
+      "job": "Alchemist",
+      "level": 100
+    },
+    {
+      "job": "Culinarian",
+      "level": 100
+    },
+    {
+      "job": "Miner",
+      "level": 100
+    },
+    {
+      "job": "Botanist",
+      "level": 100
+    },
+    {
+      "job": "Fisher",
+      "level": 100
+    }
+  ],
+  "fetched": "2026-11-23T18:41:27.631Z"
+}
