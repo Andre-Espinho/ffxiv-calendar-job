@@ -11,8 +11,8 @@
   "freeCompany": "Crystal Veil",
   "activeJob": "Black Mage",
   "activeLevel": 100,
-  "portrait": "https://img2.finalfantasyxiv.com/f/91cf6a74c68684c9cbbebdba9e99c811_2e97c13fdd593d15d543093f8a37b6f0fl0.jpg?1795820685",
-  "face": "https://img2.finalfantasyxiv.com/f/91cf6a74c68684c9cbbebdba9e99c811_2e97c13fdd593d15d543093f8a37b6f0fc0.jpg?1795820685",
+  "portrait": "https://img2.finalfantasyxiv.com/f/91cf6a74c68684c9cbbebdba9e99c811_2e97c13fdd593d15d543093f8a37b6f0fl0.jpg?1795849485",
+  "face": "https://img2.finalfantasyxiv.com/f/91cf6a74c68684c9cbbebdba9e99c811_2e97c13fdd593d15d543093f8a37b6f0fc0.jpg?1795849485",
   "levels": [
     {
       "job": "Paladin",
@@ -151,7 +151,7 @@
       "level": 100
     }
   ],
-  "fetched": "2026-11-27T23:35:09.386Z",
+  "fetched": "2026-11-28T08:01:51.848Z",
   "gear": [
     {
       "name": "Runaway Rod",
@@ -259,5 +259,5 @@
     }
   ],
   "gcRank": "Storm Captain",
-  "parseMs": 6.4
+  "parseMs": 4.1
 }
